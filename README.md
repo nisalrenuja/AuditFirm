@@ -57,8 +57,7 @@ We got your back. Here are some **FREE** resources for you to strengthen your we
 ## Contributors
 
 <a href="https://github.com/nisalrenuja/AuditFirm/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=nisalrenuja/AuditFirm
-" />
+  <img src="https://contrib.rocks/image?repo=nisalrenuja/AuditFirm" />
 </a>
 
 
