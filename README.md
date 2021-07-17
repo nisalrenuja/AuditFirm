@@ -1,5 +1,5 @@
-![Pull Requests](https://badgen.net/github/open-issues//)
-![Contributors](https://badgen.net/github/contributors//)
+![Pull Requests](https://badgen.net/github/open-issues/nisalrenuja/AuditFirm)
+![Contributors](https://badgen.net/github/contributors/nisalrenuja/AuditFirm)
 
 #  Audit - Firm
 Your one-stop portal to all things regarding Audit Firm🌀  
@@ -30,12 +30,9 @@ Read further to know how **you** can start contributing to Audit Firm!
 
 3. Create a branch using the git checkout command.
 
-`git checkout -b <your-new-branch-name>`
-
 4. Stage your changes and commit with a meaningful commit message.
 
 5. Push your work back up to your fork.
-
 
 6. Submit a Pull request so that we can review your changes. [Learn about creating a pull request.](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
@@ -59,7 +56,7 @@ We got your back. Here are some **FREE** resources for you to strengthen your we
 
 ## Contributors
 
-<a href="https://github.com/ms-club-sliit/msclubwebsite/graphs/contributors">
+<a href="https://github.com/nisalrenuja/AuditFirm/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=nisalrenuja/AuditFirm
 " />
 </a>
