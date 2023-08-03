@@ -1,64 +1,34 @@
-![Pull Requests](https://badgen.net/github/open-issues/nisalrenuja/AuditFirm)
-![Contributors](https://badgen.net/github/contributors/nisalrenuja/AuditFirm)
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-#  Audit - Firm
-Your one-stop portal to all things regarding Audit Firm🌀  
-Read further to know how **you** can start contributing to Audit Firm! 
+## Getting Started
 
-## Quick Links
+First, run the development server:
 
-- [Tech Stack](#tech-stack)
-- [How to contribute](#how-to-contribute)
-- [Learning Resources](#i-really-want-to-contribute-but-where-do-i-start)
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
 
-## [Tech Stack](#Tech-Stack)
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-### Front-End
-- HTML 
-- CSS
-- React.js
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-<!-- Add system architecture -->
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## Learn More
 
+To learn more about Next.js, take a look at the following resources:
 
-## [How to contribute](#how-to)
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-1. Fork the repo on GitHub.
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-2. Clone the project to your own machine.
+## Deploy on Vercel
 
-3. Create a branch using the git checkout command.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-4. Stage your changes and commit with a meaningful commit message.
-
-5. Push your work back up to your fork.
-
-6. Submit a Pull request so that we can review your changes. [Learn about creating a pull request.](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
-
-## [I really want to contribute but where do I start?](#resources) 
-
-We got your back. Here are some **FREE** resources for you to strengthen your web development skills and start firing some commits 
-
-**HTML / CSS / JS**
-
-- [Web Development 101 by Microsoft Learn](https://docs.microsoft.com/en-us/learn/paths/web-development-101/)
-- [Responsive Web Design by freeCodecamp](https://www.freecodecamp.org/learn/responsive-web-design/)
-- [Learn Javascript for free by Scrimba](https://scrimba.com/learn/learnjavascript)
-- [HTML & CSS Crash Course by Scrimba](https://scrimba.com/learn/htmlcss)
-- [Learn Modern Javascript by freeCodeCamp + Scrimba](https://scrimba.com/learn/es6)
-
-
-**React.js**
-
-- [React course by freeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/#react)
-- [Learn React by Scrimba](https://scrimba.com/learn/learnreact)
-
-## Contributors
-
-<a href="https://github.com/nisalrenuja/AuditFirm/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=nisalrenuja/AuditFirm" />
-</a>
-
-
-
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
